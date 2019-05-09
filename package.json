@@ -1,6 +1,6 @@
 {
     "name": "queue-tools",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "An easy way to create synchronous chains using promises as a queue.",
     "author": "George Kushnir <admin@n4ru.it>",
     "license": "MIT",
@@ -11,10 +11,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/n4ru/queueTools.git"
+        "url": "git+https://github.com/exodium-io/queue-tools.git"
     },
     "bugs": {
-        "url": "https://github.com/n4ru/queueTools/issues"
+        "url": "https://github.com/n4ru/exodium-io/issues"
     },
-    "homepage": "https://github.com/n4ru/queueTools"
+    "homepage": "https://github.com/exodium-io/queue-tools"
 }

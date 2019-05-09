@@ -1,4 +1,4 @@
-# queueTools
+# queue-tools
 
 > An easy way to create synchronous chains using promises as a queue.
 
