@@ -1,0 +1,20 @@
+{
+    "name": "queue-tools",
+    "version": "0.1.0",
+    "description": "An easy way to create synchronous chains using promises as a queue.",
+    "author": "George Kushnir <admin@n4ru.it>",
+    "license": "MIT",
+    "keywords": [
+        "promise",
+        "queue"
+    ],
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/n4ru/queueTools.git"
+    },
+    "bugs": {
+        "url": "https://github.com/n4ru/queueTools/issues"
+    },
+    "homepage": "https://github.com/n4ru/queueTools"
+}
